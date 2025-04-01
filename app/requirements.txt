@@ -1,0 +1,15 @@
+pillow
+pandas
+humanize
+matplotlib
+streamlit
+plotly==5.22.0
+streamlit-lottie
+streamlit-js-eval
+python-dotenv
+langchain
+langchain-huggingface
+langchain-core
+langchain-community
+pinecone-client==2.2.4
+streamlit

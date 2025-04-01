@@ -1,0 +1,42 @@
+Route 1: Main Station to City Center
+Stops:
+    - Main Station: latitude=12.9716, longitude=77.5946
+    - East Avenue: latitude=12.9750, longitude=77.6000
+    - Park Lane: latitude=12.9800, longitude=77.6050
+    - City Center: latitude=12.9900, longitude=77.6100
+Description: Route 1 connects the main station to the city center with multiple stops along the way.
+
+Route 2: North Market to Riverside
+Stops:
+    - North Market: latitude=13.0010, longitude=77.6100
+    - Old Town Square: latitude=13.0050, longitude=77.6150
+    - Riverside Park: latitude=13.0100, longitude=77.6200
+    - Riverside: latitude=13.0150, longitude=77.6250
+Description: This route goes from North Market through Old Town, stopping near Riverside.
+
+Route 3: University Campus to South Station
+Stops:
+    - University Campus: latitude=12.9500, longitude=77.5800
+    - Library Lane: latitude=12.9550, longitude=77.5850
+    - Tech Hub: latitude=12.9600, longitude=77.5900
+    - South Station: latitude=12.9650, longitude=77.5950
+Description: This route provides easy access from the university to South Station, ideal for students and faculty.
+Question	Answer
+General Information		
+What is BRTS System	Bhopal BRTS was a bus rapid transit system located in Bhopal, Madhya Pradesh, India, funded by the Central Government under its flagship JnNURM program. Unlike most BRT projects in India designed to serve suburban areas, Bhopal BRTS primarily catered to the needs of the Central Business Districts (CBDs). It launched in 2006 with a fleet of just 30 buses, following the JnNURM sanction, and expanded to 225 buses, including both AC and non-AC low-floor models. However, on December 26, 2023, the Government of Madhya Pradesh, led by Chief Minister Mohan Yadav, decided to discontinue the BRTS project due to traffic issues caused by the corridor. Instead, a central road divider was planned to separate traffic between the two lanes. The process of dismantling the corridor began on January 20, 2024.	
+How does the BRTS system work?	Bhopal's Bus Rapid Transit System (BRTS) is designed to enhance urban mobility by providing a fast, reliable, and eco-friendly public transport solution. Operating on dedicated bus lanes, the BRTS minimizes travel delays caused by traffic congestion, ensuring that passengers can commute efficiently across the city. With strategically placed bus stations featuring real-time information displays, pre-boarding ticketing, and comfortable waiting areas, the system prioritizes user convenience. Bhopal's BRTS also integrates with other modes of transport, allowing seamless transfers for passengers. Employing high-frequency services and environmentally friendly vehicles, such as electric and hybrid buses, the BRTS not only addresses the pressing need for efficient public transport but also contributes to reducing urban pollution. Designed with accessibility in mind, the BRTS is committed to serving all residents, making it a vital component of Bhopal's sustainable urban development strategy.	
+What are the main features of Bhopal's BRTS?	Bhopal’s Bus Rapid Transit System (BRTS), known as MyBus, offers efficient public transportation through dedicated lanes that ensure faster movement and reduce congestion. The system integrates feeder buses to connect residential areas with main routes, while its eco-friendly fleet includes low-floor, air-conditioned buses with accessibility features for people with disabilities. GPS-enabled buses are monitored centrally for punctuality, with priority at traffic signals to minimize delays. Overall, BRTS promotes sustainable urban mobility, making public transport faster, safer, and more reliable for Bhopal’s residents.	
+What are the benefits of using the BRTS system?	The BRTS (Bus Rapid Transit System) offers numerous benefits, making urban transportation more efficient and sustainable. It provides dedicated bus lanes, ensuring faster and more reliable transit by avoiding regular traffic congestion. BRTS reduces travel time, encourages public transportation use, and helps lower carbon emissions by decreasing the reliance on private vehicles. Additionally, it offers affordable fares, making transportation accessible to a wider population. Features like smart ticketing, real-time tracking, and comfortable air-conditioned buses enhance the passenger experience. By promoting mass transit, BRTS also contributes to reduced road congestion, leading to improved air quality and a more organized urban environment.	
+Routes and Stops		
+What are the main BRTS routes in Bhopal?	Chirayu Hospital - Akruti Eco City, Alpana Tiraha - HIG Mandideep, DIG - Ayodhya Nagar (housing colony), People's Hospital - Lalit Nagar, Coach Factory - Bairagarh Cheechli, BRT Misrod - Bairagarh Station, Lalghati - Bairagarh Cheechli, Nehru Nagar - Katara Hills, Gandhinagar Tiraha - Ishwar Nagar, Gandhinagar Tiraha - Bi-peptol Nagar, Trilanga - Oriental College, Chiraya Hospital - Vidya Sagar College	
+Where can I find a map of the BRTS routes?	"https://fokatgyaan.blogspot.com/2014/07/mybus-bhopal-city-transport-bllc-bus.html https://busrouteindia.blogspot.com/2016/04/bhopal-bus-routes.html"	
+How often do buses run on the BRTS routes?		
+Fares and Ticketing		
+What is the fare structure for the BRTS in Bhopal?	The fare structure for the Bhopal Bus Rapid Transit System (BRTS) follows a tiered system based on distance traveled. Typically, the minimum fare for a short distance journey starts around ₹10, and longer trips can cost up to ₹30 or more, depending on the route and bus type (such as AC or non-AC).	
+How can I purchase tickets for the BRTS?		
+Are there any discounts available for students or senior citizens?		
+Accessibility and Facilities		
+Is the BRTS system accessible for people with disabilities?		
+What facilities are available at BRTS bus stations?	Seating facilities, Signboards, Shade	
+Are there restrooms available at BRTS stations?	No
+
